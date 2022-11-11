@@ -1,0 +1,18 @@
+html {
+    font-family:Arial, Helvetica, sans-serif
+}
+.container {
+    width: 400px;
+    height: 800px;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.53);
+    padding: 20px;
+    text-align: center;
+    font-size: 75px;
+}
+
+.img {
+    max-width: 100%;
+    position: relative;
+    top: 150px
+}
